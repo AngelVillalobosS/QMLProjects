@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AnimationV1.qml</file>
+        <file>ClickableImageV2.qml</file>
+        <file>AnimationV2.qml</file>
+    </qresource>
+</RCC>
