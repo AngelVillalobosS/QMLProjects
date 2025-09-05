@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BasicModelOne.qml</file>
+        <file>BlueBox.qml</file>
+        <file>BasicModelTwo.qml</file>
+        <file>BasicModelThree.qml</file>
+        <file>Box.qml</file>
+    </qresource>
+    <qresource prefix="/BasicModel">
+        <file>BasicModelOne.qml</file>
+        <file>BasicModelThree.qml</file>
+        <file>BasicModelTwo.qml</file>
+    </qresource>
+    <qresource prefix="/DynamicViews"/>
+</RCC>

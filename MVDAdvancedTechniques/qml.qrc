@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ThePathWay.qml</file>
+        <file>BlueBox.qml</file>
+        <file>TableModels.qml</file>
+        <file>XMLModel.qml</file>
+        <file>Background.qml</file>
+        <file>Box.qml</file>
+        <file>ListsSections.qml</file>
+        <file>TheObjecModel.qml</file>
+        <file>ModelsActions.qml</file>
+    </qresource>
+</RCC>

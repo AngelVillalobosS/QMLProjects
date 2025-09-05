@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyFirstDelegate.qml</file>
+        <file>AnimatingAddANDRemove.qml</file>
+        <file>ShapeShiftingDelegates.qml</file>
+        <file>images/earth.png</file>
+        <file>images/mars.png</file>
+        <file>images/mercury.png</file>
+        <file>images/venus.png</file>
+    </qresource>
+</RCC>
