@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyImageViewer.qml</file>
+        <file>MyAndroidImageViewer.qml</file>
+        <file>ImageViewerWindow.qml</file>
+    </qresource>
+    <qresource prefix="/+android"/>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TextRectangle.qml</file>
+        <file>TextNav.qml</file>
+        <file>TLineEditV1.qml</file>
+        <file>TLineEditV2.qml</file>
+        <file>TTextEdit.qml</file>
+        <file>TTextEditV2.qml</file>
+    </qresource>
+</RCC>
