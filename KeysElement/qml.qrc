@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyKeys.qml</file>
+        <file>DarkSquare.qml</file>
+        <file>GreenSquare.qml</file>
+    </qresource>
+</RCC>

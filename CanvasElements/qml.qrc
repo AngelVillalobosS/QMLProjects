@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CanvasSquare.qml</file>
+        <file>ConvenientAPI.qml</file>
+        <file>Gradients.qml</file>
+        <file>Shadows.qml</file>
+        <file>ImagesCanvas.qml</file>
+        <file>assets/ball.png</file>
+        <file>Transform.qml</file>
+        <file>CompositionMode.qml</file>
+        <file>CompositionModeTwo.qml</file>
+        <file>PixelBuffers.qml</file>
+        <file>CanvasPaint.qml</file>
+        <file>ColorSquare.qml</file>
+        <file>HTMLCanvas.qml</file>
+        <file>GlowingLines.qml</file>
+    </qresource>
+</RCC>

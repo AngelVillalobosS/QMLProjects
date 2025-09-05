@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EasingCurves.qml</file>
+        <file>Box.qml</file>
+        <file>EasingType.qml</file>
+    </qresource>
+</RCC>

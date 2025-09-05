@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DynamicView.qml</file>
+        <file>BlueBox.qml</file>
+        <file>GreenBox.qml</file>
+        <file>Background.qml</file>
+        <file>MyHorizontalList.qml</file>
+        <file>KeyboardNavANDHighlighting.qml</file>
+        <file>KeyNavANDHighlightAnimated.qml</file>
+        <file>HeaderANDFooter.qml</file>
+        <file>YellowBox.qml</file>
+        <file>TheGridView.qml</file>
+    </qresource>
+</RCC>
